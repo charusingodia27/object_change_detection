@@ -10,7 +10,7 @@ The following files and directories are part of this project:
 - **`Dockerfile`** – The Docker setup for creating an isolated environment to run the project.
 - **`requirements.txt`** – Python dependencies required to run the project.
 - **`README.md`** – Documentation for the project.
-- **`report_charusingodia_ML_Intern.docx`** – Report containing details about performance, hardware configuration, and optimizations.
+- **`report.docx`** – Report containing details about performance, hardware configuration, and optimizations.
 - **`output_frames/`** – Directory where annotated frames are saved.
 - **`output_video.mp4`** – The final output video with annotations.
   
@@ -101,4 +101,4 @@ The FPS achieved during testing varies depending on the system hardware. On aver
 - **OS:** Ubuntu 20.04 LTS
 
 ## Report
-For detailed performance metrics, hardware configuration, and optimization techniques, please refer to the report_charusingodia_ML_Intern.docx.
+For detailed performance metrics, hardware configuration, and optimization techniques, please refer to the report.docx.
